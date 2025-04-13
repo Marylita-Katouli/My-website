@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+
+img.scale-with-grid {
+	width: 100%;}
+
+img.full-height {
+	height: 100%;}
+
+h2{color:DarkBlue;}
+h4{font-size: 18px;} 
+h4{font-style: italic;} 
+h3{font-size: 35px;}
+
+h5{text-decoration-line: underline;}
+
+
+h3{color: Purple;}
+
+ 
+.quarter-bottom-rel { margin-bottom: 3%; }
+.quarter-bottom { margin-bottom: 20px; }
+.half-bottom { margin-bottom: 50px; }
+.one-bottom, .add-bottom { margin-bottom: 100px; }
+.two-bottoms { margin-bottom: 200px; }
+.one-top { margin-top: 100px; }
+.two-tops { margin-top: 150px; }
+
+.center {
+	text-align: center;
+}
+
+
+
